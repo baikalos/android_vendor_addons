@@ -238,9 +238,12 @@ PRODUCT_PACKAGES += \
     IconPackOOSSystemUIOverlay \
     IconPackOOSThemePickerOverlay \
     IconPackOutlineAndroidOverlay \
+    IconPackOutlineLauncherOverlay \
     IconPackOutlineSettingsOverlay \
     IconPackOutlineSystemUIOverlay \
     IconPackAcherusAndroidOverlay \
+    IconPackAcherusLauncherOverlay \
+    IconPackAcherusSettingsOverlay \
     IconPackAcherusSystemUIOverlay \
     IconPackAuroraAndroidOverlay \
     IconPackAuroraSystemUIOverlay \
