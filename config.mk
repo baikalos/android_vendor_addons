@@ -119,42 +119,70 @@ PRODUCT_PACKAGES += \
     ClockFontUbuntuOverlay \
     ClockFontVtksdura3dOverlay \
     ClockFontZnikomitNo24Overlay \
-    FontAccuratistOverlay \
-    FontAclonicaOverlay \
-    FontAmaranteOverlay \
-    FontBariolOverlay \
-    FontCagliostroOverlay \
-    FontCoconOverlay \
-    FontComfortaaOverlay \
-    FontComicSansOverlay \
     FontCookieRunOverlay \
-    FontCoolstoryOverlay \
-    FontExotwoOverlay \
-    FontFifa2018Overlay \
-    FontGoogleSansOverlay \
+    FontsfprotextOverlay \
     FontGrandHotelOverlay \
-    FontHarmonySansOverlay \
+    FontRobotoCondensedOverlay \
+    FontBerlinSansOverlay \
+    FontRedressedOverlay \
+    FontIgraSansOverlay \
+    FontOneplusSlateOverlay \
+    FontAmaranteOverlay \
+    FontsfproOverlay \
+    FontUssrStencilOverlay \
+    FontMilanPro12Overlay \
     FontLGSmartGothicOverlay \
-    FontLatoOverlay \
+    FontInterOverlay \
+    FontCoolstoryOverlay \
+    FontSamsungOneOverlay \
     FontLinotteOverlay \
+    FontMindustryOverlay \
+    FontSignikaOverlay \
+    FontComicSansOverlay \
+    FontAclonicaOverlay \
+    FontMilanPro11Overlay \
+    FontLatoOverlay \
+    FontUbuntuOverlay \
+    FontFrutigerNeueOverlay \
+    FontAvantGardeGothOverlay \
+    FontFifa2018Overlay \
+    FontCagliostroOverlay \
+    FontAvantGardeGothBDOverlay \
+    FontRoganOverlay \
+    FontOneplusSansOverlay \
+    FontSFProArabicOverlay \
+    FontsfboldOverlay \
+    FontRobotoSerifOverlay \
+    FontOxaniumOverlay \
+    FontFiraSansOverlay \
+    FontCoconOverlay \
+    FontSnigletOverlay \
     FontNokiaPureOverlay \
+    FontHarmonySansOverlay \
+    FontExotwoOverlay \
+    FontSurferOverlay \
+    FontRubikOverlay \
+    FontMagistralOverlay \
+    FontRosemaryOverlay \
+    FontCaviarDreamsOverlay \
+    FontBariolOverlay \
+    FontReemKufiOverlay \
+    FontStoropiaOverlay \
+    FontAccuratistOverlay \
+    FontSlate_for_OnePlusOverlay \
+    FontSamsungSansOverlay \
+    FontSuperscienceOverlay \
+    FontArbutusOverlay \
+    FontQuandoOverlay \
+    FontNunitoOverlay \
+    FontOswaldOverlay \
+    FontComfortaaOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \
-    FontNunitoOverlay \
-    FontOneplusSansOverlay \
-    FontOneplusSlateOverlay \
-    FontOswaldOverlay \
-    FontQuandoOverlay \
-    FontRedressedOverlay \
-    FontReemKufiOverlay \
-    FontRobotoCondensedOverlay \
-    FontRosemaryOverlay \
-    FontRubikOverlay \
-    FontSamsungOneOverlay \
     FontSonySketchOverlay \
-    FontStoropiaOverlay \
-    FontSurferOverlay \
-    FontUbuntuOverlay
+    FontGoogleSansOverlay \
+    FontCircularStdOverlay \
+    FontOpenSansOverlay \
 
 # Icon Packs
 PRODUCT_PACKAGES += \
