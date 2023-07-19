@@ -23,7 +23,7 @@
         android:category="android.theme.customization.font"
         android:priority="1"/>
 
-    <application android:label="@string/font_sfproarabic_overlay" android:hasCode="false">
+    <application android:label="@string/font_sfproarabic_overlay" android:hasCode="false" android:allowBackup="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
             android:value="sfproarabic,sfproarabic-thin,sfproarabic-light,sfproarabic-regular,sfproarabic-medium,sfproarabic-semi-bold,sfproarabic-bold,sfproarabic-black" />
