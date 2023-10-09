@@ -23,7 +23,7 @@
         android:category="android.theme.customization.font"
         android:priority="1"/>
 
-    <application android:label="@string/font_avantgardegothbd_overlay" android:hasCode="false">
+    <application android:label="@string/font_avantgardegothbd_overlay" android:hasCode="false" android:allowBackup="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
             android:value="avantgardegothbd,avantgardegothbd-thin,avantgardegothbd-light,avantgardegothbd-regular,avantgardegothbd-medium,avantgardegothbd-semi-bold,avantgardegothbd-bold,avantgardegothbd-black" />
