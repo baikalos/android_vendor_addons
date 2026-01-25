@@ -32,13 +32,13 @@ desc_h=450
 
 if [[ "$IMAGEWIDTH" -eq 1440 ]]; then
   tar_to_use="$TAR1440"
-  desc_w=900; desc_h=900
+  desc_w=720; desc_h=720
 elif [[ "$IMAGEWIDTH" -eq 1080 ]]; then
   tar_to_use="$TAR1080"
-  desc_w=680; desc_h=680
+  desc_w=1080; desc_h=1080
 elif [[ "$IMAGEWIDTH" -eq 720 ]]; then
   tar_to_use="$TAR720"
-  desc_w=450; desc_h=450
+  desc_w=1440; desc_h=1440
 fi
 
 # Extract frames
